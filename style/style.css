@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Navbar Section Start */
+.navbar {
+    padding: 20px !important;
+}
+.ul {
+    display: flex !important;
+    margin-left: 50% !important;
+}
+
+li {
+    margin-left: 20px !important;
+}
+
+.navbar-brand {
+    margin-left: 40px !important;
+}
+
+a .nav-link {
+    color: black !important;
+    font-weight: 700 !important;
+    cursor: pointer;
+}
+
+ .home {
+    color: #FF3D4F !important;
+}
+/* Navbar Section end */
+
+/* Home Page Section Start */
+
+.first-image {
+    background-image: url(file:///Users/ousmanediallo/Downloads/blobanimation.svg);
+}
+
+.row-1 {
+    margin-top: 150px !important;
+    
+}
+.first-section {
+    background-color: #dbdce9;
+    padding-top: 150px !important;
+}
+
+/* Home page  Section end */
